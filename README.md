@@ -60,12 +60,7 @@ This repository contains my **GeeksforGeeks (GFG)** problem solutions focused on
 ✅ Prepare for placements  
 ✅ Build strong DSA skills
 
----
-
-## 🌐 Connect With Me
-
-🔗 GitHub: https://github.com/leoxmarcos
-
+ 
 ---
 
 <div align="center">
