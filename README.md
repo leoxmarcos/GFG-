@@ -2,13 +2,13 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=Welcome+to+My+GFG+Repository!;Daily+DSA+Practice+%F0%9F%92%AA;Code+%7C+Learn+%7C+Grow+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Welcome+to+My+GFG+Repository!;Daily+DSA+Practice+%F0%9F%92%AA;Code+%7C+Learn+%7C+Grow+%F0%9F%9A%80" />
 
 ---
 
-![Stars](https://img.shields.io/github/stars/leoxmarcos/GFG-?style=for-the-badge&color=00C9A7)
-![Forks](https://img.shields.io/github/forks/leoxmarcos/GFG-?style=for-the-badge&color=36BCF7)
-![Last Commit](https://img.shields.io/github/last-commit/leoxmarcos/GFG-?style=for-the-badge&color=00C9A7)
+![Stars](https://img.shields.io/github/stars/leoxmarcos/GFG-?style=for-the-badge&color=0A66C2)
+![Forks](https://img.shields.io/github/forks/leoxmarcos/GFG-?style=for-the-badge&color=008F7A)
+![Last Commit](https://img.shields.io/github/last-commit/leoxmarcos/GFG-?style=for-the-badge&color=0A66C2)
 
 </div>
 
@@ -16,14 +16,14 @@
 
 ## 📌 About
 
-This repository contains my **GeeksforGeeks (GFG)** problem solutions for:
+This repository contains my **GeeksforGeeks (GFG)** problem solutions focused on:
 
 ✨ DSA Practice  
 ✨ Problem of the Day (POTD)  
 ✨ Interview Preparation  
 ✨ Competitive Programming
 
-> **Consistency beats intensity. 🔁**
+> **Stay consistent. Results will follow. 🔁**
 
 ---
 
@@ -37,7 +37,7 @@ This repository contains my **GeeksforGeeks (GFG)** problem solutions for:
 🔹 Dynamic Programming  
 🔹 Recursion  
 🔹 Searching & Sorting  
-🔹 Greedy + Heap + Hashing
+🔹 Greedy • Heap • Hashing
 
 ---
 
@@ -45,8 +45,8 @@ This repository contains my **GeeksforGeeks (GFG)** problem solutions for:
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-00C9A7?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-36BCF7?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-0A66C2?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-008F7A?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 </div>
 
@@ -54,10 +54,10 @@ This repository contains my **GeeksforGeeks (GFG)** problem solutions for:
 
 ## 🎯 Goal
 
-✅ Solve daily  
-✅ Improve logic  
+✅ Solve problems daily  
+✅ Improve coding logic  
 ✅ Prepare for placements  
-✅ Build strong problem-solving skills
+✅ Build strong DSA skills
 
 ---
 
@@ -73,6 +73,6 @@ This repository contains my **GeeksforGeeks (GFG)** problem solutions for:
 
 ### 💙 Keep Coding • Keep Learning • Keep Growing 💚
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:00C9A7&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:008F7A&height=120&section=footer"/>
 
 </div>
