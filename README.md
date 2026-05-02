@@ -1,5 +1,5 @@
  
-# 💙💚 GeeksforGeeks Solutions
+# 🪻GeeksforGeeks Solutions
   
 <div align="center">
  
