@@ -4,34 +4,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=800&lines=Welcome+to+My+GFG+Repository!;Daily+DSA+Practice+💪;Problem+of+the+Day+(POTD);Code+%7C+Learn+%7C+Grow+🚀" />
 
 <br>
-
+</div>
 <div align="center">
-
-<table>
-<tr>
-
-<td align="center" width="180">
-<img src="https://img.icons8.com/fluency/96/star.png" width="55"/><br>
-<b>GitHub Stars</b><br>
-<img src="https://img.shields.io/github/stars/leoxmarcos/GFG-?style=for-the-badge&labelColor=0A66C2&color=008F7A"/>
-</td>
-
-<td align="center" width="180">
-<img src="https://img.icons8.com/fluency/96/code-fork.png" width="55"/><br>
-<b>Forks</b><br>
-<img src="https://img.shields.io/github/forks/leoxmarcos/GFG-?style=for-the-badge&labelColor=0A66C2&color=008F7A"/>
-</td>
-
-<td align="center" width="180">
-<img src="https://img.icons8.com/fluency/96/git.png" width="55"/><br>
-<b>Last Commit</b><br>
-<img src="https://img.shields.io/github/last-commit/leoxmarcos/GFG-?style=for-the-badge&labelColor=0A66C2&color=008F7A"/>
-</td>
-
-</tr>
-</table>
-
-<br>
 
 <img src="https://skillicons.dev/icons?i=cpp,java,git,github,vscode&theme=light" />
 
