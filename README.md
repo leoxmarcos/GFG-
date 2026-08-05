@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:008F7A&height=180&section=header&text=🪻%20GeeksforGeeks%20Solutions&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0A66C2,100:008F7A&section=header&text=🪻%20GeeksforGeeks%20Solutions&fontSize=46&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn"/>
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=800&lines=Welcome+to+My+GFG+Repository!;Daily+DSA+Practice+💪;Problem+of+the+Day+(POTD);Code+%7C+Learn+%7C+Grow+🚀" />
@@ -77,6 +76,5 @@ This repository contains my **GeeksforGeeks (GFG)** problem solutions focused on
 
 ### 💙 Keep Coding • Keep Learning • Keep Growing 💚
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:008F7A&height=120&section=footer"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0A66C2,100:008F7A&section=footer&text=💙%20Keep%20Coding%20•%20Keep%20Learning%20•%20Keep%20Growing%20💚&fontSize=24&fontColor=FFFFFF&fontAlignY=72"/>
 </div>
