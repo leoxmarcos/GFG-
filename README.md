@@ -5,18 +5,42 @@
 
 <br>
 
-<p>
-<img src="https://img.shields.io/github/stars/leoxmarcos/GFG-?style=for-the-badge&logo=github&color=0A66C2"/>
-<img src="https://img.shields.io/github/forks/leoxmarcos/GFG-?style=for-the-badge&logo=github&color=008F7A"/>
-<img src="https://img.shields.io/github/last-commit/leoxmarcos/GFG-?style=for-the-badge&logo=git&color=0A66C2"/>
-</p>
+<div align="center">
 
-<p>
-<img src="https://img.shields.io/badge/DSA-Practice-0A66C2?style=flat-square"/>
-<img src="https://img.shields.io/badge/POTD-Daily-008F7A?style=flat-square"/>
-<img src="https://img.shields.io/badge/Language-C++-00599C?style=flat-square&logo=cplusplus"/>
-<img src="https://img.shields.io/badge/Language-Java-ED8B00?style=flat-square&logo=openjdk"/>
-</p>
+<table>
+<tr>
+
+<td align="center" width="180">
+<img src="https://img.icons8.com/fluency/96/star.png" width="55"/><br>
+<b>GitHub Stars</b><br>
+<img src="https://img.shields.io/github/stars/leoxmarcos/GFG-?style=for-the-badge&labelColor=0A66C2&color=008F7A"/>
+</td>
+
+<td align="center" width="180">
+<img src="https://img.icons8.com/fluency/96/code-fork.png" width="55"/><br>
+<b>Forks</b><br>
+<img src="https://img.shields.io/github/forks/leoxmarcos/GFG-?style=for-the-badge&labelColor=0A66C2&color=008F7A"/>
+</td>
+
+<td align="center" width="180">
+<img src="https://img.icons8.com/fluency/96/git.png" width="55"/><br>
+<b>Last Commit</b><br>
+<img src="https://img.shields.io/github/last-commit/leoxmarcos/GFG-?style=for-the-badge&labelColor=0A66C2&color=008F7A"/>
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=cpp,java,git,github,vscode&theme=light" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/💻_DSA_Practice-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🔥_Problem_of_the_Day-008F7A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀_Interview_Prep-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📚_Competitive_Programming-008F7A?style=for-the-badge"/>
 
 </div>
 
@@ -73,8 +97,6 @@ This repository contains my **GeeksforGeeks (GFG)** problem solutions focused on
 <div align="center">
 
 ## ⭐ Star this repo if you like it!
-
-### 💙 Keep Coding • Keep Learning • Keep Growing 💚
-
+ 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0A66C2,100:008F7A&section=footer&text=💙%20Keep%20Coding%20•%20Keep%20Learning%20•%20Keep%20Growing%20💚&fontSize=24&fontColor=FFFFFF&fontAlignY=72"/>
 </div>
