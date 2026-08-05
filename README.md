@@ -1,15 +1,23 @@
- 
-# 🪻GeeksforGeeks Solutions
-  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:008F7A&height=180&section=header&text=🪻%20GeeksforGeeks%20Solutions&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
+
 <div align="center">
- 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Welcome+to+My+GFG+Repository!;Daily+DSA+Practice+%F0%9F%92%AA;Code+%7C+Learn+%7C+Grow+%F0%9F%9A%80" />
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=800&lines=Welcome+to+My+GFG+Repository!;Daily+DSA+Practice+💪;Problem+of+the+Day+(POTD);Code+%7C+Learn+%7C+Grow+🚀" />
 
-![Stars](https://img.shields.io/github/stars/leoxmarcos/GFG-?style=for-the-badge&color=0A66C2)
-![Forks](https://img.shields.io/github/forks/leoxmarcos/GFG-?style=for-the-badge&color=008F7A)
-![Last Commit](https://img.shields.io/github/last-commit/leoxmarcos/GFG-?style=for-the-badge&color=0A66C2)
+<br>
+
+<p>
+<img src="https://img.shields.io/github/stars/leoxmarcos/GFG-?style=for-the-badge&logo=github&color=0A66C2"/>
+<img src="https://img.shields.io/github/forks/leoxmarcos/GFG-?style=for-the-badge&logo=github&color=008F7A"/>
+<img src="https://img.shields.io/github/last-commit/leoxmarcos/GFG-?style=for-the-badge&logo=git&color=0A66C2"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/DSA-Practice-0A66C2?style=flat-square"/>
+<img src="https://img.shields.io/badge/POTD-Daily-008F7A?style=flat-square"/>
+<img src="https://img.shields.io/badge/Language-C++-00599C?style=flat-square&logo=cplusplus"/>
+<img src="https://img.shields.io/badge/Language-Java-ED8B00?style=flat-square&logo=openjdk"/>
+</p>
 
 </div>
 
