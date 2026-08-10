@@ -62,7 +62,7 @@ This repository contains my **GeeksforGeeks (GFG)** problem solutions focused on
 
 ✅ Solve problems daily  
 ✅ Improve coding logic  
-✅ Prepare for placements  
+✅ Prepare for placements 
 ✅ Build strong DSA skills
 
  
