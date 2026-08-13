@@ -1,0 +1,23 @@
+class Solution {
+  public:
+    int firstOccurence(string& txt, string& pat) {
+        // code here
+        int n = txt.size();
+        int m = pat.size();
+
+        if (m == 0) return 0;
+
+        for (int i = 0; i <= n - m; i++) {
+            int j = 0;
+
+            while (j < m && txt[i + j] == pat[j]) {
+                j++;
+            }
+
+            if (j == m)
+                return i;
+        }
+
+        return -1;
+    }
+};
